@@ -1,5 +1,5 @@
 
-var validPasswords = ["haisam", "T4CG-DJH7-V2WF-Y4X9", "XAT7-W4PT-2VBM-Q5ER","JDH7-V2WF-DYX9-CFC6"]; // Add your valid passwords here
+var validPasswords = ["haisam", "T4CG-DJH7-V2WF-Y4X9", "XAT7-W4PT-2VBM-Q5ER","JDH7-V2WF-DYX9-CFC6,MamunMim01##"]; // Add your valid passwords here
 var s = "1";
 
 while (!validPasswords.includes(s)) {
